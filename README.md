@@ -21,9 +21,9 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Full Stack Web Developer**
-- 📬 How to reach me: [thelokendrasinghrathore@gmail.com](mailto:thelokendrasinghrathore@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1ej4emtKkA48Pkft0AFDmuEmdI3CJZreA/view?usp=sharing)
-- <a href="https://lokendra-debug.github.io">
+- 📬 How to reach me: [nnadagoudar@gmail.com](mailto:nnadagoudar@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1sAGzYuJzCziarTMiDitZ1fsQoV5-p3wf/view?usp=sharing)
+- <a href="https://nagaraj7022.github.io/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
     </a>
 ---
@@ -76,12 +76,12 @@ That's why I like to make things that make a difference.
 
 
 ---
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokendra-debug&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagaraj7022&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true)
 ---
 
  ### 🔥 My Stats :
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lokendra-debug)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagaraj7022)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokendra-debug&theme=buefy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaraj7022&theme=buefy&layout=compact)
