@@ -64,7 +64,7 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### Projects I have worked on :
+<!-- ### Projects I have worked on :
 | Name        | Description    | Tech Stacks       | Type   | Links  |
 |-------------|----------------|------------|------------|-----------------------------------------------------|
 | Chess Battles  | Chess-Battles: Elevate chess battles with live video interaction, chat, and AI opponents. Enter room number to challenge players worldwide. |  HTML, CSS, JavaScript, NodeJs, Express, Socket.io, WebRTC, Redis, MongoDB | Online Game Chess Type Application  | - [Deployed](https://whimsical-marshmallow-d2310e.netlify.app/) - [GitHub](https://github.com/Lokendra-debug/Chess-Battles) |
@@ -72,7 +72,7 @@ That's why I like to make things that make a difference.
 | Quick Quizzer  | The Fullstack Quiz Builder allows users to create, take, and manage quizzes with ease. It features user registration, quiz creation, answers the question, and leaderboards. This interactive platform enhances engagement and learning. | bcrypt, jwt, oAuth, HTML, CSS, JavaScript, NodeJs, Express, Redis, MongoDB, Mongoose | Quick Quizzer allows users to create, take, and manage quizzes with ease.  | - [Deployed](https://quizfrontend-lokendra-debug.vercel.app/) - [GitHub](https://github.com/Lokendra-debug/Fullstack-quiz-builder-application) |
 | Trend-Bazaar  | This project is a captivating e-commerce website that merges seamless functionality with visually stunning design, creating an immersive shopping environment that engages users and encourages them to explore and make purchases. | HTML, CSS, JavaScript, json-server,DOM,fetch,vercel |  E-commerce website  | - [Deployed](https://trendbazaar-lokendra-debug.vercel.app/) - [GitHub](https://github.com/Lokendra-debug/Trend-Bazaar) |
 | Weather-APP  | This app fetches the user's current location using GeoLocation API, and then uses the location data to fetch the current weather data via the Open Weather Map API. User can search weather data of any location by just typing the location name. Application uses debouncing to reduce the number of requests sent to the API. | HTML, CSS, JavaScript, api, Weather api,fetch,DOM | Live Weather appliction   | - [Deployed](https://weather-app-js-lokendra-debug.vercel.app/) - [GitHub](https://github.com/Lokendra-debug/Weather-APP-JS) |
-| Starwars  | I built this app when I was learning about debouncing. It uses the SWAP Api to fetch data. User can search for a character, select the character from the results and view their details by clicking on the character name from the results. | HTML, CSS, JavaScript, api, fetch,DOM | Starwars-Character-Search-App   | - [Deployed](https://starwars-character-search-app-lokendra-debug.vercel.app/) - [GitHub](https://github.com/Lokendra-debug/Starwars-Character-Search-App) |
+| Starwars  | I built this app when I was learning about debouncing. It uses the SWAP Api to fetch data. User can search for a character, select the character from the results and view their details by clicking on the character name from the results. | HTML, CSS, JavaScript, api, fetch,DOM | Starwars-Character-Search-App   | - [Deployed](https://starwars-character-search-app-lokendra-debug.vercel.app/) - [GitHub](https://github.com/Lokendra-debug/Starwars-Character-Search-App) | -->
 
 
 ---
